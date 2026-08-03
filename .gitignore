@@ -1,0 +1,11 @@
+*.MOV
+*.mov
+__pycache__/
+.matplotlib_cache/
+analysis_outputs/
+!analysis_outputs/
+analysis_outputs/*
+!analysis_outputs/nystagmus_research3/
+analysis_outputs/nystagmus_research3/*
+!analysis_outputs/nystagmus_research3/all_experiments_amplitude_errorbars.png
+!analysis_outputs/nystagmus_research3/all_experiments_frequency_errorbars.png
